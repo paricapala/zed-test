@@ -4,6 +4,10 @@ A small grab-bag of Python: a tested dice roller plus a from-scratch
 **fractal + music pipeline** that renders Mandelbrot art, animates deep zooms,
 synthesizes a mellow techno track, and fuses the two into a beat-synced video.
 
+![Mandelbrot Seahorse Valley](assets/seahorse.png)
+
+*Seahorse Valley, rendered by `mandelbrot.py --preset seahorse`.*
+
 ## Setup
 
 Uses a virtual environment (the system Python on some distros is

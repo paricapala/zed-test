@@ -13,3 +13,6 @@ __pycache__/
 *.gif
 *.wav
 *.mp4
+
+# ...but keep committed images used by the README
+!assets/*.png
