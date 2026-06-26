@@ -71,3 +71,7 @@ requires `ffmpeg`):
 
 Generated media (`*.png`, `*.gif`, `*.wav`, `*.mp4`), caches, and `.venv/`
 are gitignored — everything is reproducible from the scripts above.
+
+## License
+
+[MIT](LICENSE)
