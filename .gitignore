@@ -8,5 +8,7 @@ __pycache__/
 # pytest
 .pytest_cache/
 
-# Generated fractal renders
+# Generated media (fractal renders, animations, audio)
 *.png
+*.gif
+*.wav
